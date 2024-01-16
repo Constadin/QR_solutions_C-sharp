@@ -1,0 +1,13 @@
+G:\C#_LAG\QR_make_stores_solutions\QR_make_stores\bin\Release\QR_make_stores.exe.config
+G:\C#_LAG\QR_make_stores_solutions\QR_make_stores\bin\Release\QR_make_stores.exe
+G:\C#_LAG\QR_make_stores_solutions\QR_make_stores\bin\Release\QR_make_stores.pdb
+G:\C#_LAG\QR_make_stores_solutions\QR_make_stores\bin\Release\QRCoder.dll
+G:\C#_LAG\QR_make_stores_solutions\QR_make_stores\bin\Release\zxing.dll
+G:\C#_LAG\QR_make_stores_solutions\QR_make_stores\bin\Release\zxing.presentation.dll
+G:\C#_LAG\QR_make_stores_solutions\QR_make_stores\bin\Release\zxing.xml
+G:\C#_LAG\QR_make_stores_solutions\QR_make_stores\bin\Release\zxing.presentation.xml
+G:\C#_LAG\QR_make_stores_solutions\QR_make_stores\obj\Release\QR_make_stores.csproj.AssemblyReference.cache
+G:\C#_LAG\QR_make_stores_solutions\QR_make_stores\obj\Release\QR_make_stores.csproj.CoreCompileInputs.cache
+G:\C#_LAG\QR_make_stores_solutions\QR_make_stores\obj\Release\QR_make_stores.csproj.CopyComplete
+G:\C#_LAG\QR_make_stores_solutions\QR_make_stores\obj\Release\QR_make_stores.exe
+G:\C#_LAG\QR_make_stores_solutions\QR_make_stores\obj\Release\QR_make_stores.pdb
