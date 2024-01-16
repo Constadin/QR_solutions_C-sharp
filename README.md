@@ -1,4 +1,4 @@
-# QR_solutions_C-sharp
+# QR_solutions_C_sharp
  The provided C# program uses the ZXing library to generate a QR code.
 QRCodeGenerator: Here, an instance of the QRCodeGenerator class from the ZXing library is created.
 QR Code Information: Variables such as NAME, LASTNAME, jobTitle, viografikoLink, and vgithubLink contain the information to be embedded in the QR code.
